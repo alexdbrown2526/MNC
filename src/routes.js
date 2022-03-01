@@ -10,6 +10,9 @@ const routes = [
   { name: "/projects", component: Projects },
   { name: "/services", component: Services },
   { name: "/contact", component: Contact },
+  { name: "/pricing", component: Pricing },
+  { name: "/header", component: Header },
+  { name: "/footer", component: Footer },
 ];
 
 export { routes };
